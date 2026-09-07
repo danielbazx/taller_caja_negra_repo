@@ -19,19 +19,6 @@ Para este taller, las responsabilidades operativas se estructuraron bajo el mode
 
 ---
 
-## 3. Estructura del Repositorio
-```text
-taller_caja_negra_repo/
-├── .gitignore               # Exclusión de artefactos de compilación Python (__pycache__/)
-├── presupuesto_analisis.py  # Script base entregado por el docente (conservado intacto con 3 defectos)
-├── casos_prueba.md          # Mapa conceptual (Mermaid) + Tabla de pruebas + Reporte de causa raíz
-└── README.md                # Validación conceptual profunda (Desafíos Lógicos) y auditoría final
-```
-
-> **Nota de integridad de pruebas:** Siguiendo la directriz explícita de la práctica, `presupuesto_analisis.py` **no fue modificado ni corregido**. El objetivo de la ingeniería de pruebas en esta fase es demostrar la capacidad de detectar, aislar y reportar fallos y sus defectos causales, no alterar el artefacto bajo prueba.
-
----
-
 ## 4. Instrucciones de Ejecución y Reproducción
 
 Para ejecutar y validar las pruebas de forma interactiva en la terminal:
