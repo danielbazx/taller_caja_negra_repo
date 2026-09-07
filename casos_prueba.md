@@ -1,15 +1,9 @@
 # Plan de Pruebas de Caja Negra y Diagnóstico de Defectos
 
-**Proyecto:** Análisis de Presupuesto e Inversión (`presupuesto_analisis.py`)  
-**Estándar:** ISTQB Foundation Level / ISO/IEC/IEEE 29119  
-**Materia:** Pruebas, Control de Calidad y Mantenimiento  
-
----
-
 ## Actividad 1: Mapa Conceptual de Fundamentos de Calidad
 
 A continuación se presenta el mapa conceptual interactivo que conecta la gobernanza de calidad (**Roles Operativos: QA vs. QC vs. Testing**), la dinámica de origen de problemas (**Cadena Error → Defecto → Fallo**) y los **7 Principios Universales del Testing de ISTQB**.
-
+x
 ```mermaid
 graph TD
     %% Bloque 1: Gobernanza y Roles
